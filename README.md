@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ariel (@achenet)
+Hi, I’m Ariel (@achenet) 👋
 - 👀 I’m interested in mathematics, chemistry, and biology. 
-- 🌱 I’m currently learning functional programming with Haskell and Elixir.
+- 🌱 I’m currently exploring functional programming with Clojure.
 - 📫 You can send me an email at apchenet@gmail.com
 
 <!---

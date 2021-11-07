@@ -1,7 +1,5 @@
-Hi, I’m Ariel (@achenet) 👋
-- 👀 I’m interested in mathematics, chemistry, and biology. 
-- 🌱 I’m currently exploring functional programming with Clojure.
-- 📫 You can send me an email at apchenet@gmail.com
+Hi, I’m Ariel. (@achenet) 👋
+- I’m interested in mathematics, chemistry, language, and biology. 
 
 <!---
 achenet/achenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

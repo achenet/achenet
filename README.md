@@ -1,5 +1,7 @@
 Hi, I’m Ariel. (@achenet) 👋
-- I’m interested in mathematics, chemistry, language, and biology. 
+I’m interested in mathematics, chemistry, language, and biology. 
+You can email me at apchenet@gmail.com .
+My personal site is arielche.net .
 
 <!---
 achenet/achenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

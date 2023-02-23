@@ -1,7 +1,7 @@
 Hi, I’m Ariel. (@achenet) 👋
 
 
-I’m interested in mathematics, chemistry, physics, electircal engineering, language, and biology. 
+I’m interested in mathematics, chemistry, physics, electrical engineering, language, and biology. 
 
 
 You can email me at apchenet@gmail.com.

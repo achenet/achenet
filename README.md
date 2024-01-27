@@ -1,11 +1,6 @@
 Hi, I’m Ariel. (@achenet) 👋
 
-
-I’m interested in mathematics, chemistry, physics, electrical engineering, language, and biology. 
-
-
 You can email me at apchenet@gmail.com.
-
 
 My personal site is [arielche.net](http://arielche.net).
 
